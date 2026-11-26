@@ -7,3 +7,6 @@ ho gaya rishu
 
 # Set Upsterm
 UPstrem set hogay
+
+# close
+closed 
